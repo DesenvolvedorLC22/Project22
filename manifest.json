@@ -1,0 +1,21 @@
+{
+  "name": "Gerenciador de Estudos 22",
+  "short_name": "Estudos 22",
+  "start_url": "./G22.1.2.html",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#005a9c",
+  "description": "Gerencie seus estudos de forma eficiente.",
+  "icons": [
+    {
+      "src": "https://placehold.co/192x192/005a9c/ffffff?text=E22",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "https://placehold.co/512x512/005a9c/ffffff?text=E22",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
