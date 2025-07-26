@@ -1,3 +1,6 @@
 OBSERVAÇÕES: 
 
 1- Na aba "Disciplinas" na parte "Agendar Estudo" o horário usa o fuso horário UTC universal
+link de referência: https://24timezones.com/fuso-horario/utc
+2- Use o teclado de caracteres abaixo para inserir emojis no aplicativo
+link de referência: https://emojikeyboard.top/pt/
