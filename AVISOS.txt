@@ -1,0 +1,3 @@
+OBSERVAÇÕES: 
+
+1- Na aba "Disciplinas" na parte "Agendar Estudo" o horário usa o fuso horário UTC universal
